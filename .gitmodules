@@ -1,0 +1,6 @@
+[submodule "tree-sitter-ruby"]
+	path = tree-sitter-ruby
+	url = https://github.com/tree-sitter/tree-sitter-ruby.git
+[submodule "typeprof"]
+	path = typeprof
+	url = https://github.com/ruby/typeprof.git
