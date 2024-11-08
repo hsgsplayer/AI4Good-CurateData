@@ -3,7 +3,7 @@ from tree_sitter import Language, Parser
 Language.build_library(
     'build/lang.so',
     [
-        './tree-sitter-ruby'
+        './tree-sitter-ruby/tree-sitter-ruby'
     ]
 )
 LANGUAGE = Language('build/lang.so', 'ruby')
